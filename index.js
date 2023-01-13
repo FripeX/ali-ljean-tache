@@ -12,7 +12,7 @@ const request = require("node-superfetch");
 
 
 
-
+// test ye
 const superagent = require("superagent")
 require("./server.js");
 
@@ -21,7 +21,7 @@ const PREFIX = process.env.PREFIX;
 const GOOGLE_API_KEY = process.env.YTAPI_KEY;
 
 const hook = new Discord.WebhookClient('713158157102350397', 'qSeLDTa8XIoGSz9jPnD1fNhz2EKc1-7BtlfCAqz5jQ_W2UD_o0ZdcZXEpOEU3iaODxBc');
-hook.send('Isekriyid **FripeX** <== AQLII "**ON**"');
+hook.send('Isekriyid **FripeX** <== AQLII "**ON**"'); // hook
 
 const bot = new Client({
     disableMentions: "all"
