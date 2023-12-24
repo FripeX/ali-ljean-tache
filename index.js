@@ -20,7 +20,7 @@ const TOKEN = process.env.BOT_TOKEN;
 const PREFIX = process.env.PREFIX;
 const GOOGLE_API_KEY = process.env.YTAPI_KEY;
 
-const hook = new Discord.WebhookClient('713158157102350397', 'qSeLDTa8XIoGSz9jPnD1fNhz2EKc1-7BtlfCAqz5jQ_W2UD_o0ZdcZXEpOEU3iaODxBc');
+const hook = new Discord.WebhookClient('APPID', 'TOKEN');
 hook.send('Isekriyid **FripeX** <== AQLII "**ON**"'); // hook
 
 const bot = new Client({
