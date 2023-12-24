@@ -1,7 +1,9 @@
 # ali-ljean-tache
 
+[OUTDATED]
+
 Bot darwich discord JS 
 
-I'll not push updates anymore u can work on it and don't forget to credit me !
+I'll not push updates anymore u can work on it
 
-FripeX#7224
+FripeX
